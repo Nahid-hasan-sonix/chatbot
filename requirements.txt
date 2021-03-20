@@ -4,7 +4,7 @@ enum34==1.1.10
 Flask==1.1.1
 html5lib==0.9999999
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.14.1
 Markdown==3.2.1
 MarkupSafe==1.1.1
